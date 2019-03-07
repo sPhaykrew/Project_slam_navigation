@@ -3,7 +3,7 @@
 
 
 <node pkg="move_base" type="move_base" respawn="false" name="move_base"
-output="screen">
+ output="screen">
 
 <param name="base_global_planner" value="carrot_planner/CarrotPlanner" />
 
